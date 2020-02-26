@@ -85,6 +85,7 @@ Work includes:
 - [@TimothyGu](https://github.com/TimothyGu) - Timothy Gu
 - [@tzmanics](https://github.com/tzmanics) - Tara Z. Manicsic
 - [@WebReflection](https://github.com/WebReflection) - Andrea Giammarchi
+- [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
 - [@XadillaX](https://github.com/XadillaX) - Khaidi Chu
 - [@xtuc](https://github.com/xtuc) - Sven Sauleau
 - [@yosuke-furukawa](https://github.com/yosuke-furukawa) - Yosuke Furukawa
